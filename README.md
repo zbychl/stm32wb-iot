@@ -9,7 +9,7 @@ Board designed for IoT sensor or effector. It is based on STM32WB SoC. Board des
 
 #### Components:
 * STM32WB55CGU6 - dual ARM SoC with radio (BLE and IEEE 802.15.4)
-* SHT30 - digital (I2C) temperature and humidity sensor
+* SHTC3 - digital (I2C) temperature and humidity sensor
 * Switch(es)
 * PCB antenna
 * CR2032 battery socket
