@@ -12,7 +12,7 @@ Board designed for IoT sensor or effector. It is based on STM32WB SoC. Board des
 * SHTC3 - digital (I2C) temperature and humidity sensor
 * Switch(es)
 * PCB antenna
-* CR2032 battery socket
+* CR2032/LIR2032 or CR3032/LIR3032 battery socket
 * Pins for external power supplier
 * Test Points (TPs) for UART for update
 * TPs for UART for console
