@@ -1,13 +1,13 @@
-# iot-boards
-This repisitory is to keep designs for IoT boards,e.g for IoT sensors, effectors, bridges, etc. 
+# STM32WB based IoT Project
+This repisitory keeps components for IoT project based on STM32WB SoC. Project could be used as IoT sensor, effector, bridge, etc. 
 
-## Boards
-Below there is a list of designed boards
+# Project Components
+Below there is a list of project components along with their description (PCB design for IoT board - HW, firmware - FW, software - SW, and documentation - DOC) . 
 
-### Board 1 - IoT sensor/effector with STM32WB
+## HW - IoT board based on STM32WB SoC
 Board designed for IoT sensor or effector. It is based on STM32WB SoC. Board design supports components listed below. Some of them are optional. 
 
-#### Components:
+### HW Components:
 * STM32WB55CGU6 - dual ARM SoC with radio (BLE and IEEE 802.15.4)
 * SHTC3 - digital (I2C) temperature and humidity sensor
 * Switch(es)
@@ -21,7 +21,7 @@ Board designed for IoT sensor or effector. It is based on STM32WB SoC. Board des
 * LED(s) for health/status monitoring
 * GPIO exposed on pins to support common interface (I2C, SPI, UART) 
 
-#### PCB details
+### PCB details
 There is a list of requirements put for PCB:
 * Size: tbd
 * Stackup:
@@ -31,6 +31,12 @@ There is a list of requirements put for PCB:
   * Prepeg: 7628 (Fr=4.6)
 * Standard SMT elements size: 0402 
 
-### Board 2
+## FW
+TBD
+
+## SW
+TBD
+
+## DOC
 TBD
 
