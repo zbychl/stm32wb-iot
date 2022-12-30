@@ -21,6 +21,7 @@ Board designed for IoT sensor or effector. It is based on STM32WB SoC. Board des
 * LED(s) for health/status monitoring
 * GPIO exposed on pins to support common interface (I2C, SPI, UART)
 * TPS630xx for supplying from battery, alternatively, components supporting low voltages could be used
+* EEPROM
 
 ### PCB details
 There is a list of requirements put for PCB:
