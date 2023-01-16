@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MCU_ST_STM32WB")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/MCU_ST_STM32WB.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/Connector_.kicad_sym")(options "")(descr ""))
+)
